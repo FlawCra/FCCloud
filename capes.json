@@ -1,7 +1,7 @@
 {
    "serviceType":"api",
    "api": {
-      "url":"http://fcmod.flawcra.cc/capes/%s"
+      "url":"http://capes.liquidbounce.net/api/v1/cape/uuid/%s"
    },
    "users": {
       "ea7b2dfd6c4e4454ad6ac0d1ceccb3a1":"http://dl.ccbluex.net/download/img/capes/marco.png",
